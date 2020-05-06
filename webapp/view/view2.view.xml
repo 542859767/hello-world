@@ -1,0 +1,12 @@
+<mvc:View controllerName="DemoRoutingDemoRouting.controller.view2" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="View 2" showNavButton="true" navButtonPress="onNavBack">
+				<content>
+					<Button text="Go To Split app" press="onClick"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

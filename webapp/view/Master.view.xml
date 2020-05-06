@@ -1,0 +1,12 @@
+<mvc:View controllerName="DemoRoutingDemoRouting.controller.Master" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="Master" showNavButton="true" navButtonPress="onNavBack">
+				<content>
+					<!--<Button text="Go To Detail" press="onClick"/>-->
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
